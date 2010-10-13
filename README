@@ -1,1 +1,3 @@
 code to infer the connectivity structure of neurons
+
+a lot of this code assumes you have a data/ folder with a stack of tiffs in it called "neurons.tif"
